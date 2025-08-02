@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # civictrack
 =======
 # React + Vite
@@ -14,3 +15,6 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 >>>>>>> d911e0e (Commit Done)
+=======
+# byteme
+>>>>>>> dd2dd38be6ee923e122ebcc0c7198e831bc9bac3
